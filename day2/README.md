@@ -1,4 +1,4 @@
-# Day2
+# Day 2
 
 
 ## Introduction to Quantum Physics, Mechanics
@@ -6,12 +6,18 @@
 - De-Brogli Wave-Particle Duality
 - Heisenberg Uncertainity Principle
 - Schrodinger Wave Equation
+- Properties of Quantum Mechanics
+ - Discrete Energy levels
+ - Belongs to Hilbert Space, a special vector sub-space
+ - Zero-Point Energy
 
-## Introduction to Quantum Circuits and algorithms
+## Introduction to Quantum Circuits and Algorithms
 ### Concepts
-- Qubits
+- Qubits, representation and properties 
 - Different Gates
-- Quantum Parallelism and  Algorthms
+- Quantum Parallelism and  Algorithms
+- Quantum Teleportation
+
 ## References : 
 1. [Quantum Computation and Quantum Information](https://archive.org/details/QuantumComputationAndQuantumInformation10thAnniversaryEdition)
 2. [Awesome Quantum Computing](https://github.com/desireevl/awesome-quantum-computing)
